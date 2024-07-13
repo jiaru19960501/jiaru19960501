@@ -1,10 +1,10 @@
 <h1 align="center">Hi, I'm Ru Jia！ 👋</h1>
 
-<h3 align="center">Self-introduction:</h3>
+<h3 align="left">Self-introduction:</h3>
 <p align="center">
-- 🤝 A full stack developer and algorithm researcher from China!
-- 🌱 Currently pursue a doctor degree at Xi'an Jiaotong University.
-- 🔭 Used to work on network and client development at Alibaba Group.
+<p align="center">- 🤝 A full stack developer and algorithm researcher from China! </p
+<p align="center">- 🌱 Currently pursue a doctor degree at Xi'an Jiaotong University. </p
+<p align="center">- 🔭 Used to work on network and client development at Alibaba Group. </p
 </p>
 
 <h3 align="left">Connect with me:</h3>
