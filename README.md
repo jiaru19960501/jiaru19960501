@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Ru Jia</h1>
-<h3 align="center">A full stack developer and algorithm researcher from China!</h3>
+<h1 align="center">Hi, I'm Ru Jia！ 👋</h1>
+<h2 align="center">A full stack developer and algorithm researcher from China!
 
 - 🌱 I’m currently pursuing **a doctor degree at Xi'an Jiaotong University**
 - 🔭 I used to work on **network and client development at Alibaba Group**
-
+</h2>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">📫jiaru19960501@stu.xjtu.edu.cn
